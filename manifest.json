@@ -1,0 +1,33 @@
+{
+  "name": "கின்னி பாரியின் முன்பள்ளி - Permanent",
+  "short_name": "Permanent",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#FF6B35",
+  "background_color": "#0F1115",
+  "description": "கின்னி பாரியின் முன்பள்ளி - Permanent",
+  "categories": [
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "./pwa-icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./pwa-icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./pwa-icons/maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
